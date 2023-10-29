@@ -13,6 +13,7 @@ namespace Tyuiu.BorisovaDS.Sprint3.Task1.V22.Test
             DataService ds = new DataService();
             var res = ds.GetSumSeries(1.5, 1, 20);
             Assert.AreEqual(res, 3550.301);
+
         }
     }
 }

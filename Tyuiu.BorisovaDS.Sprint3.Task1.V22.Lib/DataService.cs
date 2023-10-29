@@ -17,6 +17,7 @@ namespace Tyuiu.BorisovaDS.Sprint3.Task1.V22.Lib
             {
                 res += (Math.Pow(value, k) + 1 / 2) * Math.Cos(k);
                 k++;
+
             }
             return Math.Round(res, 3);
         }

@@ -26,6 +26,7 @@ namespace Tyuiu.BorisovaDS.Sprint3.Task1.V22
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+
             double a = 1.5;
             Console.WriteLine("A = " + a);
             Console.Write("Стартовое значение = ");
